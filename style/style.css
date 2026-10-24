@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-style: Regular;
+    font-family: Poppins;
+    font-weight: 400;
+    color: #403E3B;
+}
+
+.header-nav{
+    max-width: 1200px;
+    margin: 0 auto;
+    height: 90px;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-nav-logo-link{
+    margin-left: 32px;
+}
+
+.header{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.main{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.header-nav-items{
+    display: flex;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+.header-nav-list{
+    margin: 16px;
+
+}
+.header-nav-link{
+    color: #1B1A1A;
+    text-decoration: none;
+}
+
+.header-nav-link-btn{
+    background-color: #1B1A1A;
+    border-radius: 4px;
+    padding: 11px 20px;
+    color: #FFFFFF;
+}
+.header-content{
+    background-color: #ECE7E4;
+    display: flex;
+}
+.header-content-full-description{
+    margin: 60px 77px;
+    padding: 60px 40px;
+}
+
+.header-content-title{
+    font-weight: 200;
+    font-size: 14px;
+}
+
+.header-content-img{
+    width: 720px;
+    height: 720px;
+}
+
+.header-content-description{
+    margin-top: 20px;
+    font-size: 64px;
+    line-height: 70.4px;
+    color: #1B1A1A;
+}
+
+.header-content-text{
+    margin-top: 18px;
+}
+.header-content-link-text{
+
+    margin-top: 30px;
+}
+
+.header-content-link{
+    text-decoration: none;
+    color: #1B1A1A;
+    padding: 11px 20px;
+}
+
+.our_firm{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+
+}
+
+.our_firm-title{
+    margin-right: 132px;
+}
+.our_firm-text{
+    font-size: 16px;
+    width: 500px;
+    margin: 5px 0;
+}
+
